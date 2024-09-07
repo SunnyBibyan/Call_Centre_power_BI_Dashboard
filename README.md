@@ -3,7 +3,7 @@
 ## Overview
 This project provides an analysis of call centre trends, focusing on key performance metrics like customer satisfaction, call handling times, and resolution rates. The Power BI dashboard offers valuable insights to improve the efficiency of call centre operations.
 
-![Call Centre Dashboard](Call%20Centre%20Trends.png)
+![Call Centre Dashboard](assets/Call%20Centre%20Trends.png)
 
 ## Key Features
 - **Data Sources**: The analysis uses a dataset from a call centre with information on calls, agent performance, and customer feedback.
